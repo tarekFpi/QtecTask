@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+## Task Video
+
+
+
+https://github.com/tarekFpi/QtecTask/assets/89737189/9e048e78-c21b-424c-b84d-ed9849c80170
+
+
 ## Task Screenshot
 
  
