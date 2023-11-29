@@ -11,9 +11,7 @@ https://github.com/tarekFpi/QtecTask/assets/89737189/9e048e78-c21b-424c-b84d-ed9
 
 ## Task Screenshot
 
- 
-![WhatsApp Image 2023-11-29 at 9 06 34 PM](https://github.com/tarekFpi/QtecTask/assets/89737189/58a9473d-6b6e-4291-8d37-5ed616646080)
 
-![WhatsApp Image ![WhatsApp Image 2023-11-29 at 9 18 03 PM](https://github.com/tarekFpi/QtecTask/assets/89737189/963b5ea7-f1fe-4dd5-97c8-15eef884eb13)
-
-![WhatsApp Image 2023-11-29 at 9 06 34 PM (2)](https://github.com/tarekFpi/QtecTask/assets/89737189/388adfa8-0d1f-48a5-a974-1fa53951931c)
+![WhatsApp Image 2023-11-29 at 9 06 34 PM](https://github.com/tarekFpi/QtecTask/assets/89737189/32d05c56-d376-43fa-aea7-d23f73481b27)
+![WhatsApp Image 2023-11-29 at 9 18 03 PM](https://github.com/tarekFpi/QtecTask/assets/89737189/2264c7b4-2e3e-4223-adf7-8cafdd8fe5ff)
+![WhatsApp Image 2023-11-29 at 9 06 34 PM (2)](https://github.com/tarekFpi/QtecTask/assets/89737189/e878aeaf-889f-4e20-b849-b1dc9a42721b)
