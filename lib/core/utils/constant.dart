@@ -1,0 +1,1 @@
+const BASE_URL = "https://test-ximit.mahfil.net/api/";
