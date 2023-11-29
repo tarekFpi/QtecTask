@@ -1,16 +1,10 @@
-# qtec_task
+# Simple video player app.
 
 A new Flutter project.
 
-## Getting Started
+## Task Screenshot
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
+![WhatsApp Image 2023-11-29 at 9 06 34 PM](https://github.com/tarekFpi/QtecTask/assets/89737189/58a9473d-6b6e-4291-8d37-5ed616646080)
+![WhatsApp Image 2023-11-29 at 9 06 34 PM (1)](https://github.com/tarekFpi/QtecTask/assets/89737189/eeefd474-45cb-416f-9a01-980533a8d99c)
+![WhatsApp Image 2023-11-29 at 9 06 34 PM (2)](https://github.com/tarekFpi/QtecTask/assets/89737189/d108251f-0952-4182-86d8-767ed632cca8)
